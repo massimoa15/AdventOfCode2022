@@ -1,7 +1,6 @@
 # Read input
 #file = open('example.txt','r')
 file = open('input.txt','r')
-file2 = open('test.txt','w')
 
 # counter
 counter = 0
